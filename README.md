@@ -28,7 +28,7 @@ Installation & Usage
 
 1. Clone the repository:
 
-   git clone https://github.com/YourUsername/Style-Transfer-Classification.git
+   git clone https://github.com/battal20/style-transfer-classification.git
 
 2. Navigate to the project folder:
 
